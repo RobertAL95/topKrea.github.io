@@ -1,0 +1,11 @@
+{
+  "name": "topkrea",
+  "version": "1.0.0",
+  "description": "primera version de topKrea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
